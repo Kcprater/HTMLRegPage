@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(69, 152, 248);
+}
+
+.main {
+    text-align: center;
+    display: block;
+}
+
+.navbar {
+    text-align: right;
+    background-color: whitesmoke;
+    padding: 1em;
+    height: 5vh;
+    width: 100%;
+    border-color: white;
+    margin-top: -1em;
+}
+
+.form {
+    width: 20%;
+    background-color: white;
+    margin-top: 4em;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutBtn {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    width: 8%;
+    padding: .5em;
+    margin-top: .5em;
+}
+
+.regBtn {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    width: 8%;
+    padding: .5em;
+}
+
+.submit {
+    background-color: blue;
+    border-radius: 5px;
+    border-color: white;
+    padding: .5em;
+    width: 55%;
+    color: white;
+}
+
+#amazon {
+    width:2em;
+    height: 2em;
+    padding-right: .5em;
+}
+
+#facebook {
+    width:2em;
+    height: 2em;
+}
+
+#github {
+    width:3.5em;
+    height: 2em;
+}
+
+#instagram {
+    width: 3em;
+    height: 3em;
+}
+
+#icon {
+    width: 2.5em;
+    height: 2.5em;
+}
